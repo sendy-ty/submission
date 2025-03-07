@@ -1,4 +1,0 @@
-# Submission
-Submission Analisis Data Dengan Python
-This is a final project from Dicoding in the "Learn Data Analysis with Python" course, aimed at conducting analysis and creating a dashboard from the bike-sharing dataset. In the notebook file, I have included the methods I used for analysis, starting from Data Wrangling, Exploratory Data Analysis, to Data Visualization.
-Bike-sharing systems provide automated rental processes, enabling users to conveniently rent and return bikes from multiple locations. With over 500 programs globally and thousands of bicycles, these systems are crucial for tackling traffic, environmental, and health issues. The data produced by these systems, such as travel duration and location information, is invaluable for research and monitoring urban mobility. They function as a virtual sensor network, capable of detecting significant events in urban areas.
