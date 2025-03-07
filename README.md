@@ -1,7 +1,6 @@
 # Submission Analisis Data Dengan Python
 
 ## Overview
-![alt text](image.png)
 This is a final project from Dicoding in the "Learn Data Analysis with Python" course, aimed at conducting analysis and creating a dashboard from the bike-sharing dataset. In the notebook file, I have included the methods I used for analysis, starting from Data Wrangling, Exploratory Data Analysis, to Data Visualization.
 
 ## Directory Structure
